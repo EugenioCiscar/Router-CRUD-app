@@ -1,0 +1,28 @@
+{
+  "restaurant": [
+    {
+      "nombrePlato": "cocacola",
+      "precioPlato": "2",
+      "categoria": "bebida",
+      "id": 7
+    },
+    {
+      "nombrePlato": "pulpo",
+      "precioPlato": "17",
+      "categoria": "cortes",
+      "id": 10
+    },
+    {
+      "precioPlato": "bravas",
+      "nombrePlato": "7",
+      "categoria": "cortes",
+      "id": 11
+    },
+    {
+      "nombrePlato": "chipirones",
+      "precioPlato": "7",
+      "categoria": "cortes",
+      "id": 12
+    }
+  ]
+}
