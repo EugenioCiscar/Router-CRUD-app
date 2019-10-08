@@ -146,12 +146,12 @@ function EditarProducto (props){
                         className="form-check-input" 
                         type="radio" 
                         name="categoria"
-                        value="cortes"
+                        value="plato"
                         onChange={leerValorRadio}
-                        defaultChecked={(producto.categoria === 'cortes')}
+                        defaultChecked={(producto.categoria === 'plato')}
                     />
                     <label className="form-check-label">
-                        Cortes
+                        Plato
                     </label>
                 </div>
 

@@ -122,11 +122,11 @@ function AgregarProducto ({history, guardarRecargarProductos}){
                         className="form-check-input" 
                         type="radio" 
                         name="categoria"
-                        value="cortes"
+                        value="plato"
                         onChange={leerValorRadio}
                     />
                     <label className="form-check-label">
-                        Cortes
+                        Plato
                     </label>
                 </div>
 

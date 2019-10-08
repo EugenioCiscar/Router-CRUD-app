@@ -1,27 +1,27 @@
 {
   "restaurant": [
     {
+      "precioPlato": "3",
       "nombrePlato": "cocacola",
-      "precioPlato": "2",
       "categoria": "bebida",
       "id": 7
     },
     {
       "nombrePlato": "pulpo",
       "precioPlato": "17",
-      "categoria": "cortes",
+      "categoria": "plato",
       "id": 10
     },
     {
       "nombrePlato": "chipirones",
       "precioPlato": "7",
-      "categoria": "cortes",
+      "categoria": "plato",
       "id": 12
     },
     {
       "precioPlato": "6",
       "nombrePlato": "sepia",
-      "categoria": "cortes",
+      "categoria": "plato",
       "id": 13
     }
   ]
