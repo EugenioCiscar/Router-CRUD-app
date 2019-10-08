@@ -13,16 +13,16 @@
       "id": 10
     },
     {
-      "precioPlato": "bravas",
-      "nombrePlato": "7",
-      "categoria": "cortes",
-      "id": 11
-    },
-    {
       "nombrePlato": "chipirones",
       "precioPlato": "7",
       "categoria": "cortes",
       "id": 12
+    },
+    {
+      "precioPlato": "6",
+      "nombrePlato": "sepia",
+      "categoria": "cortes",
+      "id": 13
     }
   ]
 }

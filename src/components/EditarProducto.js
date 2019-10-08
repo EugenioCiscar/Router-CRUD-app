@@ -22,8 +22,8 @@ function EditarProducto (props){
         e.preventDefault();
 
         //VALIDAR
-        const nuevoNombrePlato=  precioPlatoRef.current.value
-        const nuevoPrecioPlato=  nombrePlatoRef.current.value
+        const nuevoNombrePlato=  nombrePlatoRef.current.value
+        const nuevoPrecioPlato=  precioPlatoRef.current.value
 
         if(nuevoNombrePlato === '' || nuevoPrecioPlato===''|| categoria === ''){
             guardarError(true);
